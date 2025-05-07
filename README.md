@@ -10,6 +10,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 - [Overview](#overview)
   - [Links](#links)
+  - [Screenshots](#screenshots)
 - [My process](#my-process)
   - [Built with](#built-with)
 - [Acknowledgments](#acknowledgments)
@@ -24,6 +25,11 @@ development.
 
 - Solution URL: [https://github.com/jepng-etich-coder/qr-code-component]
 - Live Site URL: [https://jepng-etich-coder.github.io/qr-code-component/]
+
+### Screenshots
+
+- Screenshots : [Screenshot-mobile-design](images/qr component mobile design solution.png)
+- Screenshots : [Screenshot-desktop-design](images/qr component desktop design solution.jpeg)
 
 ### Built with
 
