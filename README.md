@@ -9,19 +9,16 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Table of contents
 
 - [Overview](#overview)
-  - [Screenshot]
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
 - [Acknowledgments](#acknowledgments)
 - [Author](#author)
 
-## Overview
+### Overview
 
 This is a simple, responsive QR Code component built with HTML and CSS. It was created as a challenge to practice layout techniques, responsive design, and mobile-first
 development.
-
-###Screenshot
 
 ### Links
 
@@ -34,8 +31,6 @@ development.
 - CSS3
 - Flexbox
 - Mobile-first design
-
-### What I learned
 
 ### Acknowledgements
 
